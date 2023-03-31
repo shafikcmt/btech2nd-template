@@ -1,0 +1,50 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.template{
+    width: 960px;
+    margin: 0 auto;
+}
+.row1{
+    height: 50px;
+    width: 100%;
+    background-color: skyblue;
+}
+.logo{
+    width: 30%;
+    float: left;
+}
+.logo h1{
+    font-size: 50px;
+    color: white;
+    line-height: 50px;
+    padding-left: 20px;
+}
+.menu{
+    width: 70%;
+    float: left;
+}
+.menu ul{}
+.menu ul li{
+    float: left;
+    line-height: 50px;
+    list-style: none;
+    margin-left: 40px;
+}
+.menu ul li a{
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.row2{
+
+}
+
+.banner_section{}
+
+.banner_section h1{}
+
+.banner_section p{}
+
+.banner_section button{}
