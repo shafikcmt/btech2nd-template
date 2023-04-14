@@ -76,3 +76,35 @@
 }
 /* Row2 CSS END */
 
+
+/* Row3 CSS Start */
+.row3{
+    height: 260px;
+    width: 100%;
+    background: skyblue;
+    text-align: center;
+}
+.welcome_section{}
+.welcome_section h1{
+    padding-top: 30px;
+}
+.border{
+    height: 5px;
+    width: 40px;
+    background: #000;
+    margin: 10px auto;
+}
+.welcome_section p {
+    width: 680px;
+    margin: 0 auto;
+    padding-bottom: 20px;
+}
+.welcome_section button {
+    padding: 10px 20px;
+    border-radius: 50px;
+    background: #fff;
+}
+
+
+/* Row3 CSS End */
+
