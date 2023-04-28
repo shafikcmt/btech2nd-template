@@ -110,7 +110,7 @@
 
 /* Row4 CSS Start */
 .row4{
-    height: 350px;
+    height: 259px;
     width: 100%;
 
 }
@@ -143,4 +143,71 @@
     transition: 1s;
 }
 /* Row4 CSS End */
+
+
+
+/* Row5 CSS Start */
+.row5{
+    height: 450px;
+    width: 100%;
+    background: skyblue;
+}
+.service_section{}
+.service_top{}
+.service_top h1 {
+    text-align: center;
+    padding-top: 10px;
+    font-size: 35px;
+}
+.service_top p {
+    text-align: center;
+    width: 789px;
+    margin: 0 auto;
+    line-height: 25px;
+    padding-bottom: 20px;
+}
+.service_bottom{
+    width: 90%;
+    margin: 0 auto;
+}
+.service_bottom_row{
+    height: 80px;
+}
+.service_bottom_item {
+    width: 28%;
+    float: left;
+    background: gainsboro;
+    margin-left: 15px;
+    padding: 8px 15px;
+    border-radius: 5px;
+}
+.service_item_left{
+    width: 30%;
+    float: left;
+}
+.service_item_left i {
+    border: 1px solid #000;
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+    line-height: 50px;
+    text-align: center;
+    font-size: 20px;
+    color: #000;
+}
+.service_item_right{
+    width: 70%;
+    float: left;
+}
+.service_item_right h2 {
+    font-size: 18px;
+    padding-top: 18px;
+    color: #000;
+}
+.{}
+.{}
+.{}
+
+
+/* Row5 CSS End */
 
